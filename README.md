@@ -5,7 +5,6 @@ Parte 1: Investigación del Trabajo Soñado
 QA Engineer
 
 OFERTA LABORAL 1: INDEED
-..............................................................
 Nombre del puesto: QA ENGINEER.
 
 Tecnologías requeridas: Java, Python, Jira, Git, Windows, Mac, Axios, Linux.
@@ -19,7 +18,6 @@ Responsabilidades: Pruebas manuales funcionales y de comportamiento. Pruebas de 
 
 
 OFERTA LABORAL 2 - LinkedIN Jobs
-..............................................................
 Nombre del puesto: QA Associate, Amazon Music creative Production.
 
 Tecnologías requeridas: 
@@ -32,7 +30,6 @@ Responsabilidades: Realizar inspecciones de calidad en puntos de control designa
 
 
 OFERTA LABORAL 3 - LinkedIN 
-..............................................................
 Nombre del puesto: Analista QA
 
 Tecnologías requeridas: Scrum, SQL, Excel, Power Query, 
@@ -42,3 +39,15 @@ Habilidades técnicas: Pruebas de software, automatización de pruebas, casos de
 Habilidades blandas: Buena actitud, Comunicación asertiva, Trabajo en equipo, Manejo del estrés, Gestión del tiempo, Adaptabilidad, Creatividad
 
 Responsabilidades: Pruebas manuales: regresión, smoke, exploratorias y diseño de casos de prueba. Diseño y ejecución de casos de prueba y reporte de errores. Pruebas de rendimiento
+
+
+OFERTA LABORAL 4 - LinkedIN
+Nombre del puesto:
+
+Tecnologías requeridas: Scrum, Java, .NET
+
+Hablidades técnicas: Formación académica en Ingeniería en Computación, Ingeniería de Software, Sistemas de Información u áreas similares. Conocimientos básicos de tecnologías back‑end (Java, .NET) o bases de datos (no requerido).
+
+Habilidades blandas: Mentalidad proactiva y colaborativa.
+
+Responsabilidades: Desarrollar y ejecutar casos de prueba manuales para aplicaciones web y móviles. Revisar requisitos e historias de usuario para asegurar su verificabilidad y precisión. Realizar pruebas funcionales, de regresión y smoke en proyectos asignados. Registrar, rastrear y verificar defectos usando herramientas de seguimiento QA (ej. JIRA, Testlink).
